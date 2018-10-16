@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  person: one
+  user: one
+  key: one
+  time: 2018-10-16 16:00:40
+  status: false
+
+two:
+  person: two
+  user: two
+  key: two
+  time: 2018-10-16 16:00:40
+  status: false
